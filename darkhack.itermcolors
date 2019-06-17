@@ -20,13 +20,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0039215688593685627</real>
+		<real>0.0</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.37254902720451355</real>
+		<real>0.084607020020484924</real>
 		<key>Red Component</key>
-		<real>0.84313726425170898</real>
+		<real>0.629852294921875</real>
 	</dict>
 	<key>Ansi 10 Color</key>
 	<dict>
@@ -124,13 +124,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.018936149775981903</real>
+		<real>0.0</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.67597103118896484</real>
+		<real>0.76862746477127075</real>
 		<key>Red Component</key>
-		<real>0.872100830078125</real>
+		<real>0.78039216995239258</real>
 	</dict>
 	<key>Ansi 4 Color</key>
 	<dict>
@@ -241,26 +241,26 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0</real>
+		<real>1</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.60034823417663574</real>
+		<real>1</real>
 		<key>Red Component</key>
-		<real>0.695404052734375</real>
+		<real>1</real>
 	</dict>
 	<key>Cursor Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0</real>
+		<real>0.51372551918029785</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.97680455446243286</real>
+		<real>0.729411780834198</real>
 		<key>Red Component</key>
-		<real>0.0</real>
+		<real>0.32941177487373352</real>
 	</dict>
 	<key>Cursor Guide Color</key>
 	<dict>
@@ -280,13 +280,13 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.0</real>
+		<real>1</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.0</real>
+		<real>1</real>
 		<key>Red Component</key>
-		<real>0.0</real>
+		<real>1</real>
 	</dict>
 	<key>Foreground Color</key>
 	<dict>
